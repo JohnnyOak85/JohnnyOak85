@@ -22,7 +22,7 @@
 
 ### :man_technologist: About Me :
 
-I am a Full Stack Developer from Portugal.
+I am a Full Stack Developer from Portugal. I'm persistent, an early bird and I will not rest until I find a solution that satisfies me.
 
 -   👷 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
@@ -30,7 +30,7 @@ I am a Full Stack Developer from Portugal.
 
 -   :zap: In my free time, I am building my Discord bot :robot: [Artemis](https://github.com/JohnnyOak85/artemis).
 
--   :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-João-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joaopmcarvalho)
+-   📑 Check my CV : [johnnyoak85.github.io](https://johnnyoak85.github.io/)
 
 ---
 
