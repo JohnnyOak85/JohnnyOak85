@@ -10,12 +10,12 @@
     </div>
     <img src="https://komarev.com/ghpvc/?username=JohnnyOak85&style=flat-square&color=blue" alt=""/>
     <h1>
-  Well hello there!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
+        Well hello there!
+        <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    </h1>
     <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
+        <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+    </div>
 </div>
 
 ---
@@ -24,13 +24,13 @@
 
 I am a Full Stack Developer from Portugal.
 
--   :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+-   👷 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 -   :seedling: Currently learning :jp: Japanese.
 
 -   :zap: In my free time, I am building my Discord bot :robot: [Artemis](https://github.com/JohnnyOak85/artemis).
 
--   :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-João-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joaopmcarvalho).
+-   :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-João-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/joaopmcarvalho)
 
 ---
 
@@ -56,8 +56,27 @@ I am a Full Stack Developer from Portugal.
 
 ---
 
+### 🏛️ Where I learn :
+
+![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)
+![Duolingo](https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)
+
+---
+
+### 🎮 Where I game :
+
+![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)
+![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+![Switch](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)
+
+---
+
 ### :fire: My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JohnnyOak85&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Throphy](https://github-profile-trophy.vercel.app/?username=JohnnyOak85&theme=onedark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JohnnyOak85&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
