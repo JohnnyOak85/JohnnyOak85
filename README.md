@@ -64,6 +64,12 @@ I am a Full Stack Developer from Portugal. I'm persistent, an early bird and I w
   <a href="https://nodejs.org/en/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" **alt="Node.js" width="40" height="40"/>
   </a>
+  <a href="https://hapi.dev/">
+    <img src="https://avatars.githubusercontent.com/u/3774533?s=200&v=4" title="Hapi.js" **alt="Hapi.js" width="40" height="40"/>
+  </a>
+  <a href="https://www.twilio.com/">
+    <img src="https://seeklogo.com/images/T/twilio-logo-341DD81BFB-seeklogo.com.png" title="Twilio" **alt="Twilio" width="40" height="40"/>
+  </a>
   <a href="https://discord.js.org/#/">
     <img src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-original.svg" title="Discord.js" **alt="Discord.js" width="40" height="40"/>
   </a>
