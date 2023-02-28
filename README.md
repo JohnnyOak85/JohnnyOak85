@@ -1,10 +1,10 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOThkY2YwODVjYWQwMDA1M2M3NDI0NjM1Mzg4YWRmYjZjNDdhZjA0NyZjdD1z/gjrYDwbjnK8x36xZIO/giphy.gif" width="100"/>
     <div id="badges">
-        <a href="https://www.linkedin.com/in/joaopmcarvalho">
+        <a href="https://www.linkedin.com/in/joaopmcarvalho" target="_blank">
             <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
         </a>
-        <a href="https://discordapp.com/users/349627151957622786">
+        <a href="https://discordapp.com/users/349627151957622786" target="_blank">
             <img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
         </a>
     </div>
@@ -37,55 +37,55 @@ I am a Full Stack Developer from Portugal. I'm persistent, an early bird and I w
 ### :hammer_and_wrench: Languages and Tools
 
 <div>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"  title="CSS3" alt="CSS" width="40" height="40"/>
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/javascript">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" **alt="JavaScript" width="40" height="40"/>
   </a>
-  <a href="https://www.typescriptlang.org/">
+  <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" **alt="TypeScript" width="40" height="40"/>
   </a>
-  <a href="https://reactjs.org/">
+  <a href="https://reactjs.org/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" **alt="React" width="40" height="40"/>
   </a>
-  <a href="https://redux.js.org/">
+  <a href="https://redux.js.org/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" **alt="Redux" width="40" height="40"/>
   </a>
-  <a href="https://www.electronjs.org/">
+  <a href="https://www.electronjs.org/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/electron/electron-original.svg" title="Electron" **alt="Electron" width="40" height="40"/>
   </a>
-  <a href="https://ionicframework.com/">
+  <a href="https://ionicframework.com/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original.svg" title="Ionic" **alt="Ionic" width="40" height="40"/>
   </a>
-  <a href="https://nodejs.org/en/">
+  <a href="https://nodejs.org/en/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="Node.js" **alt="Node.js" width="40" height="40"/>
   </a>
-  <a href="https://hapi.dev/">
+  <a href="https://hapi.dev/" target="_blank">
     <img src="https://avatars.githubusercontent.com/u/3774533?s=200&v=4" title="Hapi.js" **alt="Hapi.js" width="40" height="40"/>
   </a>
-  <a href="https://www.twilio.com/">
+  <a href="https://www.twilio.com/" target="_blank">
     <img src="https://seeklogo.com/images/T/twilio-logo-341DD81BFB-seeklogo.com.png" title="Twilio" **alt="Twilio" width="40" height="40"/>
   </a>
-  <a href="https://discord.js.org/#/">
+  <a href="https://discord.js.org/#/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/discordjs/discordjs-original.svg" title="Discord.js" **alt="Discord.js" width="40" height="40"/>
   </a>
-  <a href="https://couchdb.apache.org/">
+  <a href="https://couchdb.apache.org/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/couchdb/couchdb-original.svg" title="CouchDB" **alt="CouchDB" width="40" height="40"/>
   </a>
-  <a href="https://redis.io/">
+  <a href="https://redis.io/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/redis/redis-original.svg" title="Redis" **alt="Redis" width="40" height="40"/>
   </a>
-  <a href="https://code.visualstudio.com/">
+  <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>
   </a>
-  <a href="https://git-scm.com/">
+  <a href="https://git-scm.com/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
   </a>
-  <a href="https://www.raspberrypi.com/">
+  <a href="https://www.raspberrypi.com/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg" title="Raspberry Pi" **alt="Raspberry Pi" width="40" height="40"/>
   </a>
 </div>
