@@ -82,6 +82,9 @@ I am a Full Stack Developer from Portugal. I'm persistent, an early bird and I w
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>
   </a>
+  <a href="https://gamemaker.io/en" target="_blank">
+    <img src="https://coal.gamemaker.io/sites/5d75794b3c84c70006700381/theme/images/svg/logomark.svg" title="Raspberry Pi" **alt="Raspberry Pi" width="40" height="40"/>
+  </a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
   </a>
