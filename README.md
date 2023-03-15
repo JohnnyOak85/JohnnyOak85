@@ -22,7 +22,7 @@
 
 ### :man_technologist: About Me
 
-I am a Full Stack Developer from Portugal. I'm persistent, an early bird and I will not rest until I find a solution that satisfies me.
+Hey there, I'm João Carvalho, a Full Stack Developer from sunny Portugal. I approach programming as an art form, just like a persistent early bird with a passion for creating something unique and beautiful from scratch. With the determination of a certain adamantium-clawed mutant and the adaptability of a pink puff ball from the stars, I navigate the complex world of programming like a green clad elf explores a desolate world. Whether acquiring new coding skills like something out of a question block or developing higher soft skills like a blonde super martial artist , I am always up for a challenge and won't back down until I've conquered it. I might not carry a whip or holy water, but I will still crush those bugs! So let's create something amazing together! 
 
 -   👷 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
