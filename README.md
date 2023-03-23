@@ -28,7 +28,7 @@ Hey there, I'm João Carvalho, a Full Stack Developer from sunny Portugal. I app
 
 -   :seedling: Currently learning :jp: Japanese.
 
--   :zap: In my free time, I am building my Discord bot :robot: [Artemis](https://github.com/JohnnyOak85/artemis).
+-   :robot: Currently researching how to imbue ChatGPT into [Artemis](https://github.com/JohnnyOak85/artemis).
 
 -   📑 Check my CV at [johnnyoak85.github.io](https://johnnyoak85.github.io/)
 
