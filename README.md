@@ -26,7 +26,7 @@ Hey there, I'm João Carvalho, a Full Stack Developer from sunny Portugal. I app
 
 -   👷 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
--   :seedling: Currently learning :jp: Japanese.
+-   :seedling: Currently learning :jp: Japanese and 🇪🇸 Spanish.
 
 -   :robot: Currently researching how to imbue ChatGPT into [Artemis](https://github.com/JohnnyOak85/artemis).
 
